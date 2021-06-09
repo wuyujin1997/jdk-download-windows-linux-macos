@@ -1,8 +1,7 @@
 
-## JDK download
 
-<https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html>
+oracle 官网下载JDK需要登录，每次都要重设密码。
 
-but, you need login with oracle account now, before you download it.
+所以我把下载过的JDK安装包放在这里。
 
-so I want download JDK once, then put it here, For more convenient download in the future.
+也可以方便不同客户端、多平台下载。
