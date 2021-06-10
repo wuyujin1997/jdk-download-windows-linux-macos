@@ -22,7 +22,7 @@
 
 但是对于文件的下载，则简单许多。
 
-1. `git clone git@github.com:wuyujin1997/jdk-download-windows-linux-macos.git`
+1. `git clone https://github.com/wuyujin1997/jdk-download-windows-linux-macos.git`
 
   then you can use JDK file at you local machine.
 
