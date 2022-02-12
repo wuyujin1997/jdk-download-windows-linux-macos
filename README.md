@@ -27,3 +27,21 @@
   then you can use JDK file at you local machine.
 
 2. click download link at any browser.
+
+## huaweiyun
+
+感谢华为云提供的文件服务：
+你可以在以下两个页面中找到你需要的JDK下载链接：
+
+<https://repo.huaweicloud.com/java/jdk/>
+<https://repo.huaweicloud.com/openjdk/>
+
+- JDK 8
+
+```shell
+wget -c https://repo.huaweicloud.com/java/jdk/8u181-b13/jdk-8u181-windows-x64.exe
+
+wget -c https://repo.huaweicloud.com/java/jdk/8u181-b13/jdk-8u181-macosx-x64.dmg
+
+wget -c https://repo.huaweicloud.com/java/jdk/8u181-b13/jdk-8u181-linux-x64.tar.gz
+```
